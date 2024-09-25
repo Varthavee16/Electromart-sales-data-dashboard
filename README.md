@@ -82,7 +82,8 @@ PROFIT MARGIN = (( TOTAL SALES -TOTAL COST )/TOTAL SALES)*100;
 ```
 
 ## Snaps of Dashboard
-
+![Screenshot 2024-09-25 230436](https://github.com/user-attachments/assets/4cf5283e-3e73-4785-a828-4c3b18562237)
+![Screenshot 2024-09-25 230629](https://github.com/user-attachments/assets/8e770ae4-ceaf-433f-97a5-f75483c552ad)
 
 ## Conclusion
 
